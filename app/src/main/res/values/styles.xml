@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary" tools:targetApi="lollipop">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark" tools:targetApi="lollipop">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="ResultTextView">
+        <item name="android:textSize">32sp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>
